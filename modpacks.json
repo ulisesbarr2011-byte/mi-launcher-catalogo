@@ -12,6 +12,17 @@
       "image": "",
       "downloadUrl": "",
       "enabled": true
+    },
+    {
+      "id": "pack-de-prueba",
+      "name": "Pack de prueba",
+      "description": "Segundo modpack para comprobar las actualizaciones.",
+      "minecraftVersion": "1.20.1",
+      "loader": "Forge",
+      "loaderVersion": "47.4.0",
+      "image": "",
+      "downloadUrl": "",
+      "enabled": true
     }
   ]
 }
