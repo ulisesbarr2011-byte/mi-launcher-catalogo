@@ -10,8 +10,8 @@
       "loader": "Forge",
       "loaderVersion": "47.4.0",
       "image": "",
-      "downloadUrl": "https://github.com/ulisesbarr2011-byte/mi-launcher-catalogo/raw/refs/heads/main/PackPrueba.zip"
-      "enabled": true
+      "downloadUrl": "https://github.com/ulisesbarr2011-byte/mi-launcher-catalogo/raw/refs/heads/main/PackPrueba.zip",
+"enabled": true
     },
     {
       "id": "pack-de-prueba",
