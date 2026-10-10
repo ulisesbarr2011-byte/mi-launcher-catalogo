@@ -23,6 +23,17 @@
       "image": "",
       "downloadUrl": "",
       "enabled": true
+    },
+    {
+      "id": "pack-prueba-3",
+      "name": "Pack de prueba 3",
+      "description": "Prueba de actualización sin reiniciar.",
+      "minecraftVersion": "1.20.1",
+      "loader": "Forge",
+      "loaderVersion": "47.4.0",
+      "image": "",
+      "downloadUrl": "",
+      "enabled": true
     }
   ]
 }
